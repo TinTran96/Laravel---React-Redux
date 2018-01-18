@@ -1,6 +1,6 @@
 # Laravel Auth with React-Redux
 
-The Laravel Auth with React by [GitHub](https://github.com/lijujohn13/react-laravel-auth) lijujohn13, i'm just using this for base project with Redux.
+The Laravel Auth with React by [lijujohn13](https://github.com/lijujohn13/react-laravel-auth), i'm just using this for base project with Redux.
 
 ## Setup
 1. Run `composer install` to install php dependencies.
